@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">infinitetest</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_history">History</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_share">Share</string>
+    <string name="infinite_share">Infinite Application</string>
+    <string name="share_message">Ayo anjay gg Gaming</string>
+</resources>
